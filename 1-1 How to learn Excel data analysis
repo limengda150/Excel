@@ -1,8 +1,25 @@
                                                 Opening speech 
                                                 
-The subject and characteristics of "Excel data analysis" we set up as follows:
+一 The subject and characteristics of "Excel data analysis" we set up as follows:
     1.Learn the method of data mining by Excel.
     2.Know the tool of data mining by instance,which is 5 functions of Excel:Function,chart，data analysis,
     data pivot table，programming solution.
+    
+二 The purpose of data mining:
+    1.grasp the trends and model.
+    2.prediction
+    3.Find the optimal solution
+    
+三 The analytical method used in Excel data analysis:
+    1.multivariate analysis;
+    2.discriminant analysis;
+    3.regression analysis;
+    4.logistic regression analysis;
+    5.cluster analysis;
+    6.principle component analysis;
+    7.factor analysis;
+    8.correspondence analysis(dual scale analysis);
+    9.canonical correlation analysis:
+    10.joint analysis.
     
 Remarks:Don't give up forever when suffer from difficulties!
